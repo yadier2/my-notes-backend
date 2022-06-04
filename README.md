@@ -36,7 +36,7 @@ Para confugurr lasv variables puede sar un archivo `.env` ubicado en la raíz de
 
 ## Migraciones
 Para definir las tablas y relaciones de la base de datos utilizamos migraciones. 
-Una vez que haya configurado correctamente su base da datos ejecute el siguente comando.
+Una vez que haya configurado correctamente su base de datos ejecute el siguiente comando.
 
 ```bash
 npm run migrations:run
