@@ -15,7 +15,7 @@ const port = process.env.PORT || 3000;
 app.use(express.json());
 const whitelist = [
   "http://localhost:3000",
-  "https://blog-atalaya.herokuapp.com",
+  "https://my-notes2.herokuapp.com",
 ];
 
 const options = {
