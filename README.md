@@ -1,4 +1,3 @@
-# my-notes-backend
 # ...[backend server my notes]...
 El servidor backend del sitema de notas. Esta documentación explica cómo configurar, iniciar y probar el servidor backend.
 El proyecto esta realizado en:
